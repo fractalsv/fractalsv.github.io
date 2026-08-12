@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "felaban-2024",
+    "title": "FELABAN 2024 \u2014 Paraguay",
+    "cat": "Dise\u00f1o Expositivo",
+    "desc": "Stand institucional para la 58\u00b0 Asamblea Anual de FELABAN. Estructura vertical con dise\u00f1o vibrante e identidad corporativa integrada.",
+    "images": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg"
+    ]
+  },
+  {
+    "slug": "pabellon-catm-2025",
+    "title": "Pabell\u00f3n El Salvador \u2014 CATM 2025",
+    "cat": "Pabell\u00f3n Internacional",
+    "desc": "Pabell\u00f3n tur\u00edstico con branding 'El Salvador' y 'Surf City'. Sistema de paneles modulares con acabados en madera y gr\u00e1ficos de gran formato.",
+    "images": [
+      "01.jpg",
+      "02.jpg",
+      "poster.jpg"
+    ]
+  },
+  {
+    "slug": "cata-itb-berlin",
+    "title": "Stand CATA \u2014 ITB Berl\u00edn, Alemania",
+    "cat": "Stand Internacional",
+    "desc": "Stand tur\u00edstico para feria ITB Berl\u00edn. Dise\u00f1o con estructura de madera, gr\u00e1ficos tropicales y branding 'Centro Oc\u00e9ano'. Proyecto de alcance internacional.",
+    "images": [
+      "01.jpg",
+      "02.jpg"
+    ]
+  },
+  {
+    "slug": "adimex-iata-2025",
+    "title": "Stand ADIMEX \u2014 IATA Day 2025",
+    "cat": "Stand Corporativo",
+    "desc": "Stand para evento de aviaci\u00f3n IATA Day 2025. Dise\u00f1o corporativo con identidad de marca integrada en espacio ferial.",
+    "images": [
+      "poster.jpg"
+    ]
+  },
+  {
+    "slug": "aircity-iata-2025",
+    "title": "Stand AIR CITY \u2014 IATA Day 2025",
+    "cat": "Stand Corporativo",
+    "desc": "Stand con dise\u00f1o modular para empresa de aviaci\u00f3n. Vistas frontal y laterales con iluminaci\u00f3n integrada y zona de recepci\u00f3n.",
+    "images": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "poster.jpg"
+    ]
+  }
+]
