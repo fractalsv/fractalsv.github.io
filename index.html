@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>FRACTALSV — Arquitectura & Diseño Expositivo</title>
+<link rel="icon" type="image/png" href="favicon.png">
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
 
@@ -36,9 +37,10 @@
     padding: 1.2rem 3rem;
   }
   .logo {
-    font-size: 1.3rem; font-weight: 700; color: var(--concrete);
-    border: 3px solid var(--cement); padding: 0.4rem 1.2rem; letter-spacing: 5px;
+    border: 3px solid var(--cement); padding: 0.35rem 1rem;
+    display: flex; align-items: center; background: var(--void);
   }
+  .logo img { height: 34px; width: auto; display: block; }
   .nav-links { display: flex; gap: 2.5rem; list-style: none; }
   .nav-links a {
     color: var(--cement); text-decoration: none;
@@ -55,6 +57,7 @@
   }
   .hero-block { max-width: 1200px; margin: 0 auto; width: 100%; }
   .hero h1 { font-size: clamp(2.5rem, 7vw, 6rem); font-weight: 700; line-height: 0.9; letter-spacing: 2px; }
+  .hero-logo { width: min(520px, 80vw); height: auto; display: block; margin-bottom: 0.5rem; }
   .hero h1 .fractal { color: var(--concrete); }
   .hero h1 .sv { color: var(--signal); }
   .hero-tag {
@@ -187,7 +190,7 @@
 
 <nav>
   <div class="nav-inner">
-    <div class="logo">FRACTALSV</div>
+    <div class="logo"><img src="img/logo/logo-dark.png" alt="FRACTALSV"></div>
     <ul class="nav-links">
       <li><a href="#proyectos">[Proyectos]</a></li>
       <li><a href="#estudio">[Estudio]</a></li>
@@ -198,7 +201,7 @@
 
 <section class="hero">
   <div class="hero-block">
-    <h1><span class="fractal">FRACTAL</span><span class="sv">SV</span></h1>
+    <img class="hero-logo" src="img/logo/logo-dark.png" alt="FRACTALSV">
     <div class="hero-tag">ARQUITECTURA &nbsp;&bull;&nbsp; DISEÑO EXPOSITIVO &nbsp;&bull;&nbsp; STANDS</div>
     <div class="hero-sub">
       <p>ESTUDIO ESPECIALIZADO EN DISEÑO DE ESPACIOS EXPOSITIVOS, PABELLONES INTERNACIONALES Y STANDS CORPORATIVOS. PROYECTOS EN EL SALVADOR, PARAGUAY, ALEMANIA Y CENTROAMÉRICA.</p>
